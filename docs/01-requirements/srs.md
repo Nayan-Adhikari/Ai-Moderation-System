@@ -10,7 +10,7 @@ The system is designed to detect abusive or toxic content using AI and apply aut
 ### 1.2 Scope
 The system will:
 - Allow users to register and log in
-- Allow users to create posts and comments
+- Allow users to comments
 - Analyze comments using an AI model
 - Apply moderation rules automatically
 - Provide an admin dashboard for monitoring users and moderation actions
